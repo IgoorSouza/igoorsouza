@@ -1,8 +1,8 @@
 <div>
   <h2>About me </h2>
-  🎈 Learning Web Development <br />
-  🎈 System Analysis and Development student <br />
-  🎈 Constantly learning and improving my skills
+  <h4>🎈 Learning Web Development </h4>
+  <h4>🎈 System Analysis and Development student </h4>
+  <h4>🎈 Constantly learning and improving my skills </h4>
 </div>
 
 <h2>My GitHub stats</h2>
