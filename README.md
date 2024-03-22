@@ -1,3 +1,5 @@
+<h2>Olá! Eu sou Igor Souza e você está no meu perfil do GitHub.</h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorsouza&count_private=true&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoorsouza&layout=compact&theme=radical)](https://github.com/igoorsouza/github-readme-stats)
 
