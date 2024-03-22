@@ -23,4 +23,4 @@
 
 ##
 
-<img src="https://i.kym-cdn.com/photos/images/original/002/738/959/060.gif" alt="Mr Fresh"  width="100" />
+<img src="https://i.kym-cdn.com/photos/images/original/002/738/959/060.gif" alt="Mr Fresh"  width="150" />
