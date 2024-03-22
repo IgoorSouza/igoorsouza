@@ -20,7 +20,3 @@
   <a href="https://www.instagram.com/igor_souzzza/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/igor-souza-de-castro-04307a278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
-##
-
-<img src="https://i.kym-cdn.com/photos/images/original/002/738/959/060.gif" alt="Mr Fresh"  width="150" />
