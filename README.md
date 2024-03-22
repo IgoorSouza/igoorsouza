@@ -1,10 +1,17 @@
+<div>
+  <h2>About me </h2>
+  🎈 Learning Web Development <br>
+  🎈 System Analysis and Development student <br>
+  🎈 Constantly learning and improving my skills
+</div>
+
+<h2>My GitHub stats</h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorsouza&count_private=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoorsouza&layout=compact&theme=radical)](https://github.com/igoorsouza/github-readme-stats)
 
-##
-
 <div style="display: inline_block">
-  <h3> 💎 My techs: </h3>
+  <h2> 💎 My techs: </h2>
   <img align="center" alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,10 +22,8 @@
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
-
 <div>
-  <h3>🔎 My links: </h3>
+  <h2>🔎 My links: </h2>
   <a href="mailto:igorscastroptc2@gmail.com"><img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/igor_souzzza/"><img width="141" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/igor-souza-de-castro-04307a278/"><img width="127" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
