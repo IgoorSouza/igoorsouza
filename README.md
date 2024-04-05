@@ -7,6 +7,7 @@
 
 <h2>My GitHub stats</h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorsouza&count_private=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoorsouza&layout=compact&theme=radical)](https://github.com/igoorsouza/github-readme-stats)
 
 <div style="display: inline_block">
