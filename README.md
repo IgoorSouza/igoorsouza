@@ -2,7 +2,7 @@
   <h2>About me </h2>
   🎈 Learning Web Development <br>
   🎈 System Analysis and Development student <br>
-  🎈 Constantly improving my skills
+  🎈 Constantly improving my skills <br>
   🎈 Currently participating in a Full Stack Bootcamp
 </div>
 
