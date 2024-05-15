@@ -3,7 +3,6 @@
   🎈 Learning Web Development <br>
   🎈 System Analysis and Development student <br>
   🎈 Constantly improving my skills <br>
-  🎈 Currently participating in a Full Stack Bootcamp
 </div>
 
 <h2>My GitHub stats</h2>
