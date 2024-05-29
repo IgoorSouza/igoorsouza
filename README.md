@@ -1,6 +1,6 @@
 <div>
   <h2>About me </h2>
-  🎈 Learning Web Development <br>
+  🎈 Learning Full Stack Web Development <br>
   🎈 System Analysis and Development student <br>
   🎈 Constantly improving my skills <br>
 </div>
