@@ -1,13 +1,4 @@
-<div>
-  <h2>About me </h2>
-  🎈 Learning Full Stack Web Development <br>
-  🎈 System Analysis and Development student <br>
-  🎈 Constantly improving my skills <br>
-</div>
-
-<h2>My GitHub stats</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoorsouza&layout=compact&theme=radical)](https://github.com/igoorsouza/github-readme-stats)
+<h2>💻Trainee Developer at SysMap Solutions</h2>
 
 <div style="display: inline_block">
   <h2> 💎 My techs: </h2>
