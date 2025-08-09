@@ -1,6 +1,6 @@
 <div style="display: inline_block">
   <h2> 🔎 About me: </h2>
-  <p>I'm a Web Developer and System Analysis and Development student.</p>
+  <p>I'm a Web Developer at SysMap Solutions and System Analysis and Development student.</p>
 </div>
 
 <div style="display: inline_block">
